@@ -1,0 +1,21 @@
+body{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+.boton-personalizado {
+  position: absolute;
+  top: 3000px;
+  left: 35%;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #180f69;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 50px;
+  font-family: Helvetica;
+  border-radius: 5px;
+}
+
+    
